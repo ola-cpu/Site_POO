@@ -1,0 +1,17 @@
+{
+    "name": "momo/site_poo",
+    "autoload": {
+        "psr-4": {
+            "Momo\\SitePoo\\": "src/",
+            "Router\\": "routes/",
+            "App\\": "app/",
+            "Database\\": "database/"
+        }
+    },
+    "authors": [{
+        "name": "ola-cpu",
+        "email": "68545167+ola-cpu@users.noreply.github.com"
+    }],
+
+    "require": {}
+}
